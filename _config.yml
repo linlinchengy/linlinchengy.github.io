@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UNNU Joint Lab"
+title                    : "Bu-Lab"
 title_separator          : "-"
 name                     : &name "Yunfei Bu"
-description              : &description "UNIST-NUIST JOINTED LAB"
+description              : &description "Bu-Lab"
 url                      : https://linlinchengy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linlinchengy/linlinchengy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yunfei Bu"
   avatar           : "profile.jpg"
-  bio              : "Unist-Nuist Jointed laboratory, Nanjing University Of Information Science & Technology, P.R.China"
+  bio              : "Bu-Lab, Nanjing University Of Information Science & Technology, P.R.China"
   location         : "NUIST"
   employer         :
   pubmed           :

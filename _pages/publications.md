@@ -19,7 +19,7 @@ Jiamin Gu, Xiaoxin Zhang, Yunxia Zhao, Abdullah Alodhayb, Yifei Sun*, **Yunfei B
 Hao Gu, Yiqing Zeng, Qin Zhong*, **Yunfei Bu\***., **ACS Applied Materials & Interfaces**, 2023, [https://doi.org/10.1021/acsami.3c02306](https://doi.org/10.1021/acsami.3c02306). (IF:10.38)
 
 51. **Lattice Distorted Rhodium Nanocrystals in Porous Nanofiber toward Aqueous Zinc-CO2 System**  
-Yang Song, Yaobin Wang, Yunxia Zhao, Linlin Cheng, Gao-feng Han, Feng Li, **Yunfei Bu\***., **ACS Matarials Letters**, 2023, 5, 1271-1280. (IF: 11.1 )
+Yang Song, Yaobin Wang, Yunxia Zhao, Linlin Cheng, Gao-feng Han, Feng Li, **Yunfei Bu\***., **ACS Matarials Letters**, 2023, 5, 1271-1280. (IF: 11.1)
 
 50. **Ternary selenides nanosheets constituting coaxial structural electrode for flexible supercapacitors**  
 Hao Gu, Yiqing Zeng, Qin Zhong*, **Yunfei Bu\***., **Journal of Alloys and Compounds**, 2023, 169722.
@@ -39,16 +39,16 @@ Qian Lu, Xiaohong Zou*, Xixi Wang, Liang An, Zongping Shao*, **Yunfei Bu\***., *
 Qian Lu, Xiaohong Zou*, **Yunfei Bu\***, Zongping Shao*., **Energy Storage Materials**, 2022, [https://doi.org/10.1016/j.ensm.2022.11.046](https://doi.org/10.1016/j.ensm.2022.11.046) (IF: 20.8)
 
 45. **Molecular-level proton acceptor boosts oxygen evolution catalysis to enable efficient industrial-scale water splitting**  
-Yaobin Wang, Qian Lu, Xinlei Ge, Feng Li*, Le Chen, Zhihui Zhang, Zhengping Fu*, Yalin Lu, Yang Song, **Yunfei Bu\***., **Green Energy& Environment**, 2022, [https://doi.org/10.1016/j.gee.2022.07.001](https://doi.org/10.1016/j.gee.2022.07.001). (IF: 12.7 )
+Yaobin Wang, Qian Lu, Xinlei Ge, Feng Li*, Le Chen, Zhihui Zhang, Zhengping Fu*, Yalin Lu, Yang Song, **Yunfei Bu\***., **Green Energy& Environment**, 2022, [https://doi.org/10.1016/j.gee.2022.07.001](https://doi.org/10.1016/j.gee.2022.07.001). (IF: 12.7)
 
 44. **Design strategies of perovskite nanofibers electrocatalysts for water splitting: A mini review**  
 Yaobin Wang, Yan Jiang, Yunxia Zhao, Xinlei Ge, Qian Lu*, Ting Zhang, Dongsheng Xie, Meng Li*, **Yunfei Bu\***., **Chemical Engineering Journal**, 2023, 451, 138710. (IF: 16.7) (Reivew)
 
 43. **Highly Efficient and Stable Bifunctional Electrocatalyst with Alloy/Oxide Heterostructures for a Rechargeable Zinc–Air Battery**  
-Chang Rui, Ting Zhang, Yan Jiang, Dongsheng Xie, Meng Li, Qian Lu, **Yunfei Bu\***., **Energy& Fuels**, 2022, [https://doi.org/10.1021/acs.energyfuels.2c02744](https://doi.org/10.1021/acs.energyfuels.2c02744).  (IF: 4.65 )
+Chang Rui, Ting Zhang, Yan Jiang, Dongsheng Xie, Meng Li, Qian Lu, **Yunfei Bu\***., **Energy& Fuels**, 2022, [https://doi.org/10.1021/acs.energyfuels.2c02744](https://doi.org/10.1021/acs.energyfuels.2c02744).  (IF: 4.65)
 
 42. **Mo-doped Ba0.5Sr0.5Co0.8Fe0.2O3-δ as a high-performance symmetric electrode for solid oxide fuel cells**  
-Yufan Shen, Yang Song*, Yunxia Zhao, Juzheng Zhao, Manyu Yan, Qian Lu, **Yunfei Bu\***., **Journal of Alloys and Compounds**, 2022, 928, 167029. (IF: 6.37 )
+Yufan Shen, Yang Song*, Yunxia Zhao, Juzheng Zhao, Manyu Yan, Qian Lu, **Yunfei Bu\***., **Journal of Alloys and Compounds**, 2022, 928, 167029. (IF: 6.37)
 
 ## 2021
 
@@ -56,7 +56,7 @@ Yufan Shen, Yang Song*, Yunxia Zhao, Juzheng Zhao, Manyu Yan, Qian Lu, **Yunfei 
 Qian Lu, Xiaohong Zou, **Yunfei Bu\***, Kaiming Liao, Wei Zhou, Zongping Shao*., **Small**, 2021, 2105604. (IF 13.2)
 
 40. **Advances and Perspectives for the Application of Perovskite Oxides in Supercapacitors**  
-Dandan Meng, Hao Gu, Qian Lu, Yunxia Zhao, Guoyin Zhu, Yizhou Zhang*, Qin Zhong*, **Yunfei Bu\***., **Energy& Fuels**, 2021, [https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.1c03157](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.1c03157). (Reivew) (IF 3.6 )
+Dandan Meng, Hao Gu, Qian Lu, Yunxia Zhao, Guoyin Zhu, Yizhou Zhang*, Qin Zhong*, **Yunfei Bu\***., **Energy& Fuels**, 2021, [https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.1c03157](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.1c03157). (Reivew) (IF 3.6)
 
 39. **Anions mediated amino-type Cd-MOFs catalysts for efficient photocatalytic hydrogen evolution**  
 Junfeng Qian, Huadong Yue, Pengxiang Qin, Qian Liang, Mengting Hang, Mingyang He, **Yunfei Bu\***, Qun Chen, Zhihui Zhang*., **Journal of Solid State Chemistry**, 2021, 304, 122632. (IF 3.49)
@@ -65,7 +65,7 @@ Junfeng Qian, Huadong Yue, Pengxiang Qin, Qian Liang, Mengting Hang, Mingyang He
 Zheng Zhu, Shipeng Wan, Qian Lu, Qin Zhong, Yunxia Zhao, **Yunfei Bu\***., **Separation and Purification Technology**, 2021, 281, 119893. [https://doi.org/10.1016/j.seppur.2021.119893](https://doi.org/10.1016/j.seppur.2021.119893). (IF 7.3)
 
 37. **Carbon-Based Electrocatalysts for Efficient Hydrogen Peroxide Production**  
-**Yunfei Bu**, Yaobin Wang, Gao-Feng Han*, Yunxia Zhao, Xinlei Ge, Feng Li*, Zhihui Zhang, Qin Zhong, Jong-Beom Baek*., **Advanced Materials**, 2021,  [https://doi.org/10.1002/adma.202103266](https://doi.org/10.1002/adma.202103266). (Hot Topic: Carbon, Graphite, and Graphene) (Reivew) 封面文章（IF 30）
+**Yunfei Bu**, Yaobin Wang, Gao-Feng Han*, Yunxia Zhao, Xinlei Ge, Feng Li*, Zhihui Zhang, Qin Zhong, Jong-Beom Baek*., **Advanced Materials**, 2021,  [https://doi.org/10.1002/adma.202103266](https://doi.org/10.1002/adma.202103266). (Hot Topic: Carbon, Graphite, and Graphene) (Reivew) (IF 30)
 
 36. **Recent Advances in Bismuth-Based Multimetal Oxide Photocatalysts for Hydrogen Production from Water Splitting: Competitiveness, Challenges, and Future Perspectives**  
 Zheng Zhu, Shipeng Wan, Yunxia Zhao, Yaxin Gu, Yaobin Wang, Yong Qin, Zhihui Zhang, Xinlei Ge*, Qin Zhong*, **Yunfei Bu\***., **Materials Reports: Energy**, 2021, 100019. (Reivew)
@@ -91,7 +91,7 @@ Hao Gu, Qin Zhong*, Yiqing Zeng, Shule Zhang, **Yunfei Bu\***., **Journal of Col
 Yunxia Zhao#, Wei Cai#, Mindong Chen, **Yunfei Bu\***., **Journal of Alloys and Compounds**, 2020, 154508. (IF 5.17)
 
 29. **A highly efficient composite cathode for proton-conducting solid oxide fuel cells**  
-**Yunfei Bu**, Sangwook Joo, Yanxiang Zhang, Yifan Wang, Dandan Meng, Xinlei Ge*, Guntae Kim*., **Journal of Power Sources**, 2020, 451, 227812. （IF 9.1）
+**Yunfei Bu**, Sangwook Joo, Yanxiang Zhang, Yifan Wang, Dandan Meng, Xinlei Ge*, Guntae Kim*., **Journal of Power Sources**, 2020, 451, 227812. (IF 9.1)
 
 ## 2019
 
@@ -114,7 +114,7 @@ Juan Wang, Qin Zhong,*Yiqing Zeng, Danyu Chen, Yongheng Xiong, **Yunfei Bu\***.,
 Yutong Li, FuqiangChu, **Yunfei Bu\***, Yong Kong, YongxinTao, Xiao Zhou, HaoranYu, Lin Tang, Yong Qin*., **Chem. Commun**, 2019, 55, 7828-7831. (IF6.1)
 
 22. **Identifying the structure of Zn-N2 active sites and structural activation**  
-Feng Li#, **Yunfei Bu**#*, Gao-Feng Han, Hyuk-Jun Noh, Seok-Jin Kim, Ishfaq Ahmad, Yalin Lu, Peng Zhang, Hu Young Jeong, Zhengping Fu, Qin Zhong，Jong-Beom Baek*., **Nature Communications 10**, Article number: 2623 (2019) [https://doi.org/10.1038/s41467-019-10622-1](https://doi.org/10.1038/s41467-019-10622-1) (共一，通讯，IF 11.8)(Featured article in Nature Communications Editors Highlights webpage)
+Feng Li#, **Yunfei Bu#\***, Gao-Feng Han, Hyuk-Jun Noh, Seok-Jin Kim, Ishfaq Ahmad, Yalin Lu, Peng Zhang, Hu Young Jeong, Zhengping Fu, Qin Zhong，Jong-Beom Baek*., **Nature Communications 10**, Article number: 2623 (2019) [https://doi.org/10.1038/s41467-019-10622-1](https://doi.org/10.1038/s41467-019-10622-1)
 
 21. **Fabrication of 3D Co-doped Ni-based MOF hierarchical micro-flowers as a high-performance electrode material for supercapacitors**  
 Juan Wang, Qin Zhong*, Yongheng Xiong, Danyu Cheng, Yiqing Zeng, **Yunfei Bu\***., **Applied Surface Science**, 2019, 483(31), 1158-1165. (IF5.1)
@@ -126,12 +126,12 @@ Juan Wang, Qin Zhong*, Yongheng Xiong, Danyu Cheng, Yiqing Zeng, **Yunfei Bu\***
 Haoran Yu,  Fuqiang Chu,  Xiao Zhou,  Junling Ji,  Yang Liu,  **Yunfei Bu\***,  Yong Kong,  Yongxin Tao,  Yongxin Li  and  Yong Qin*., **Chem. Commun.**, 2019,55, 2445-2448.  (IF. 6.1)
 
 18. **Synergistic interaction of perovskite oxides and N-doped graphene in versatile electrocatalyst**  
-**Yunfei Bu**, Gyutae Nam, Seona Kim, Qin Zhong,  Yong Qin, Jaephil Cho, Guntae Kim., **Journal of Materials Chemistry A**, 2019, 7, 2048. （IF 10.7）（封底文章）（ESI 1% 高被引论文）
+**Yunfei Bu**, Gyutae Nam, Seona Kim, Qin Zhong,  Yong Qin, Jaephil Cho, Guntae Kim., **Journal of Materials Chemistry A**, 2019, 7, 2048. (IF 10.7)
 
 ## 2018
 
 17. **A tailored bifunctional electrocatalyst: Boosting oxygen reduction/evolution catalysis via electron transfer between n-doped graphene and perovskite oxides**  
-**Yunfei Bu**, Gyutae Nam, Seona Kim, Keunsu Choi, Qin Zhong, JunHee Lee, Yong Qin, Jaephil Cho, Guntae Kim., **Small**, 2018. 1802767 (IF 10.8 )（封面文章）
+**Yunfei Bu**, Gyutae Nam, Seona Kim, Keunsu Choi, Qin Zhong, JunHee Lee, Yong Qin, Jaephil Cho, Guntae Kim., **Small**, 2018. 1802767 (IF 10.8)
 
 16. **In-situ conversion of rGO/Ni2P composite from GO/Ni-MOF precursor with enhanced electrochemical property**  
 Zijian Lv, Qin Zhong, **Yunfei Bu\***., **Applied Surface Science**, 2018. 439, 413-419. (IF 5.1)
@@ -154,10 +154,10 @@ Zijian Lv, Qin Zhong, Zhiyang Zhao, **Yunfei Bu\***., **Journal of Materials Sci
 **Yunfei Bu\***, Ohhun Gwon, Gyutae Nam, Haeseong Jang, Seona Kim, Qin Zhong, Jaephil Cho, Guntae Kim., **ACS Nano**, 2017, 11, 11, 11594-11601. (IF 13.9)
 
 10. **Porous cobalt phosphide polyhedrons with iron doping as an efficient bifunctional electrocatalyst**  
-Feng Li#, **Yunfei Bu**#, Zijian Lv, Javeed Mahmood, Gao‐Feng Han, Ishfaq Ahmad, Guntae Kim, Qin Zhong, Jong‐Beom Baek., **Small**, 2017, 13, 40, 1701167. (Co-first)(IF10.8)（封面文章 ）
+Feng Li#, **Yunfei Bu#**, Zijian Lv, Javeed Mahmood, Gao‐Feng Han, Ishfaq Ahmad, Guntae Kim, Qin Zhong, Jong‐Beom Baek., **Small**, 2017, 13, 40, 1701167. (Co-first)(IF10.8)
 
 9. **A simple seed-mediated growth method for the synthesis of highly morphology controlled CrOx / Ce0.2Zr0.8O2 catalysts and their enhanced NO oxidation**  
-Wei Cai #, **Yunfei Bu** #, Yun Xia Zhao, Qin Zhong., **Chemical Engineering Journal**, 2017, 317, 376-385. (Co-first) (IF 15)
+Wei Cai #, **Yunfei Bu#**, Yun Xia Zhao, Qin Zhong., **Chemical Engineering Journal**, 2017, 317, 376-385. (Co-first) (IF 15)
 
 ## 2016
 
@@ -165,7 +165,7 @@ Wei Cai #, **Yunfei Bu** #, Yun Xia Zhao, Qin Zhong., **Chemical Engineering Jou
 **Yunfei Bu**, Yu Chen, Tao Wei, Samson Lai, Dong Ding, Haibin Sun, Dongxin Zhen, Xunhui Xiong, Qin Zhong., **Energy Technology**, 2016, 4: 1-3 (IF 3.2)
 
 7. **A Highly Efficient and Robust Nanofiber Cathode for Solid Oxide Fuel Cells**  
-Yu Chen#, **Yunfei Bu**#, Yanxiang Zhang#, Ruiqiang Yan, Dong Ding, Bote Zhao, Seonyoung Yoo, Dai Dang, Renzong Hu, Chenghao Yang, Meilin Liu., **Advanced Energy Materials**, 2016,1601890 (共同一作) (IF 21.9)
+Yu Chen#, **Yunfei Bu#**, Yanxiang Zhang#, Ruiqiang Yan, Dong Ding, Bote Zhao, Seonyoung Yoo, Dai Dang, Renzong Hu, Chenghao Yang, Meilin Liu., **Advanced Energy Materials**, 2016,1601890 (IF 21.9)
 
 6. **A High-performance, Cobalt-free Cathode for Intermediate-temperature Solid Oxide Fuel Cells with Excellent CO2 Tolerance**  
 **Yunfei Bu**, Qin Zhong, Dongchang Chen, Yu Chen, Samson Yuxiu Lai, Tao Wei, Haibin Sun, Dong Ding, Meilin Liu., **Journal of Power Sources**, 2016, 319:178-184 (IF 7.4)

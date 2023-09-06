@@ -6,9 +6,15 @@ author_profile: true
 ---
 --------------------
 
-{% include base_path %}
-
-
-{% for post in site.members %}
-  {% include archive-single.html %}
-{% endfor %}
+- Yaobin Wang
+- Xiao Chen
+- Yufan Shen
+- Xiao Chen
+- Tianye Wang
+- Juzheng Zhao
+- Chengqian Zhao
+- Zhihui Yang
+- Jiamin Gu
+- Linlin Cheng
+- Yuji Wang
+- Hangyu Cheng
