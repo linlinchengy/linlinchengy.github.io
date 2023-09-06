@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to UNIST-NUIST JOINTED LAB"
+title: "Welcome to Bu-Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
