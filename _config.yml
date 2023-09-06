@@ -190,6 +190,9 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
+  openings:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,6 +254,15 @@ defaults:
   - scope:
       path: ""
       type: members
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _openings
+  - scope:
+      path: ""
+      type: openings
     values:
       layout: single
       author_profile: true
