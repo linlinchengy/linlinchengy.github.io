@@ -12,7 +12,7 @@ author_profile: true
 
 ## Zinc-air battery
 
-![Zinc-air-battery](/images/Zinc-air-battery.png)
+![Zinc-air-battery](/images/Zinc-air-battery.jpg)
 
 ## Oxygen-evolving reaction(OER), Hydrogen-evolving reaction(HER)
 
