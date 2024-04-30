@@ -7,15 +7,29 @@ text-align: justify
 ---
 --------------------
 
-## 2023
+##2024
+62.
 
-55. **Pt3Ni Alloy Nanoparticle Electro-Catalysts with Unique Core-Shell Structure on Oxygen-Deficient Layered Perovskite for Solid Oxide Cells**  Yang Song, Hyunmin Kim,Wenjun Bai,**Ji-Hyun Jang\***.,Wenjun Bai,** Caichao Ye\***.,Jiamin Gu,**Yunfei Bu\***., **Advanced Energy Materials**, 2023, 13, 2302384. https://doi.org/10.1002/aenm.202302384. (IF 29)
+61. Anchored Cobalt Nanoparticles on Layered Perovskites for Rapid Peroxymonosulfate Activation in Antibiotic Degradation, Yaobin Wang, Dong Li, Xinlei Ge, Jianghua Yu, Yunxia Zhao, Yunfei Bu*, Advanced Materials, 2024, https://doi.org/10.1002/adma.202402935.
+
+60. **Single-phase ruthenium-based oxide with dual-atoms induced bifunctional catalytic centers enables highly efficient rechargeable Zn-air batteries**,Qian Lu, **Xiaohong Zou\***, **Yunfei Bu\***, **Ying Wang\***, **Zongping Shao\***,  **Energy Storage Materials**, 2024, 103341. (IF. 20.8)
+
+59.  **Recent Advances in Iridium-based Electrocatalysts for Acidic Electrolyte Oxidation**, Wanqing Li, **Yunfei Bu\***, Xinlei Ge, Feng Li, Gao-Feng Han, **Jong-Beom Baek\***.,**ChemSusChem**, 2024, e202400295. Hot Topic: Surfaces and Interfaces. (IF. 8.7)
+
+58. **Optimizing water electrolysis activity in Mo-doped Sr2FeCoO6-δ perovskites by balancing oxygen vacancies and structural stability**.Juzheng Zhao, Yufan Shen, Jiamin Gu, Yuqi Wang, Yunxia Zhao, **Yunfei Bu\***.  **Journal of Power Sources**, 2024, 592, 233928. (IF. 9.2)
+
+## 2023
+57.  **Chlorine-Induced Surface Reconstruction of Perovskite Oxide Boosts Oxygen Evolution Reaction Activity**. Tianye Wang, Yaobin Wang, Yunxia Zhao, **Yunfei Bu\***.**Energy & Fuel**, 2023, 38, 671-681. https://doi.org/10.1021/acs.energyfuels.3c03642
+    
+56.  **Accelerated deprotonation with a hydroxy-silicon alkali solid for rechargeable zinc-air batteries** Yaobin Wang, Xinlei Ge, **Qian Lu\***., Wenjun Bai, **Caichao Ye\***, **Zongping Shao\***, **Yunfei Bu\***.,**Nature Communications**, 2023, 14, 6968. https://doi.org/10.1038/s41467-023-42728-y. (IF. 17.6) 
+
+55. **Pt3Ni Alloy Nanoparticle Electro-Catalysts with Unique Core-Shell Structure on Oxygen-Deficient Layered Perovskite for Solid Oxide Cells**  Yang Song, Hyunmin Kim,Wenjun Bai,**Ji-Hyun Jang\***.,Wenjun Bai,**Caichao Ye\***.,Jiamin Gu,**Yunfei Bu\***., **Advanced Energy Materials**, 2023, 13, 2302384. https://doi.org/10.1002/aenm.202302384. (IF 29)
    
 54. **Atomic-scale configuration enables fast hydrogen migration for electrocatalysis of acidic hydrogen evolution**  
 Yaobin Wang, Qian Lu, Feng Li, Daqin Guan, **Yunfei Bu\***., **Advanced Functional Materials**, 2023, 2213523. (IF 19.9)
 
 53. **Advances and challenges in symmetrical solid oxide electrolysis cells: materials development and resource utilization**  
-Jiamin Gu, Xiaoxin Zhang, Yunxia Zhao, Abdullah Alodhayb, Yifei Sun*, **Yunfei Bu\***., **Materials chemistry frontiers**, 2023, DOI:10.1039/d3qm00410d. (IF. 8.68). 2023 Materials Chemistry Frontiers HOT articles
+Jiamin Gu, Xiaoxin Zhang, Yunxia Zhao, Abdullah Alodhayb, **Yifei Sun\***, **Yunfei Bu\***., **Materials chemistry frontiers**, 2023, DOI:10.1039/d3qm00410d. (IF. 8.68). 2023 Materials Chemistry Frontiers HOT articles
 
 52. **Highly Reversibly Stretchable and Elastically Wearable Textile Supercapacitor**  
 Hao Gu, Yiqing Zeng, Qin Zhong*, **Yunfei Bu\***., **ACS Applied Materials & Interfaces**, 2023, [https://doi.org/10.1021/acsami.3c02306](https://doi.org/10.1021/acsami.3c02306). (IF:10.38)
