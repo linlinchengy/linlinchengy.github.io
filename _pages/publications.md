@@ -7,10 +7,8 @@ text-align: justify
 ---
 --------------------
 
-##2024
-62.
-
-61. Anchored Cobalt Nanoparticles on Layered Perovskites for Rapid Peroxymonosulfate Activation in Antibiotic Degradation, Yaobin Wang, Dong Li, Xinlei Ge, Jianghua Yu, Yunxia Zhao, Yunfei Bu*, Advanced Materials, 2024, https://doi.org/10.1002/adma.202402935.
+## 2024
+61. **Anchored Cobalt Nanoparticles on Layered Perovskites for Rapid Peroxymonosulfate Activation in Antibiotic Degradation**, Yaobin Wang, Dong Li, Xinlei Ge, Jianghua Yu, Yunxia Zhao, **Yunfei Bu\***, **Advanced Materials**, 2024, https://doi.org/10.1002/adma.202402935.
 
 60. **Single-phase ruthenium-based oxide with dual-atoms induced bifunctional catalytic centers enables highly efficient rechargeable Zn-air batteries**,Qian Lu, **Xiaohong Zou\***, **Yunfei Bu\***, **Ying Wang\***, **Zongping Shao\***,  **Energy Storage Materials**, 2024, 103341. (IF. 20.8)
 
