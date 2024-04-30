@@ -9,6 +9,8 @@ text-align: justify
 
 ## 2023
 
+55. **Pt3Ni Alloy Nanoparticle Electro-Catalysts with Unique Core-Shell Structure on Oxygen-Deficient Layered Perovskite for Solid Oxide Cells**  Yang Song, Hyunmin Kim,Wenjun Bai,**Ji-Hyun Jang\***.,Wenjun Bai,** Caichao Ye\***.,Jiamin Gu,**Yunfei Bu\***., **Advanced Energy Materials**, 2023, 13, 2302384. https://doi.org/10.1002/aenm.202302384. (IF 29)
+   
 54. **Atomic-scale configuration enables fast hydrogen migration for electrocatalysis of acidic hydrogen evolution**  
 Yaobin Wang, Qian Lu, Feng Li, Daqin Guan, **Yunfei Bu\***., **Advanced Functional Materials**, 2023, 2213523. (IF 19.9)
 
