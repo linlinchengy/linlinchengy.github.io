@@ -17,4 +17,4 @@ author_profile: true
 - Jiamin Gu
 - Linlin Cheng
 - Yuji Wang
-- Hangyu Cheng
+- Yucheng Hangc
